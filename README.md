@@ -21,7 +21,7 @@ Simple example:
 
 ## Download
 
-The library jar file can be downloaded in the <a href = "https://github.com/ArtyomKingmang/Lazurite/releases">Releases</a> tab
+The library jar file can be downloaded in the <a href = "https://github.com/ArtyomKingmang/SZIP/releases">Releases</a> tab
 
 
 <h1 align="middle" style="font-size: 20px;">❤ Thank you for choosing us ❤</h1>
