@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SZIP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SZIP_jar</output-path>
+    <root id="archive" name="SZIP.jar">
+      <element id="module-output" name="SZIP" />
+    </root>
+  </artifact>
+</component>
